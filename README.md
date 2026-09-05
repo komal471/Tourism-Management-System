@@ -62,6 +62,13 @@ Database file:
 
 `http://localhost/tms/`
 
+## 📸 Project Screenshots
+
+### Home Page
+
+![Tourism Management System Home Page](screenshots/homepage.png)
+
+
 ## 👨‍💻 Author
 
 **Komal Patil**
