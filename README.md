@@ -68,6 +68,10 @@ Database file:
 
 ![Tourism Management System Home Page](screenshots/homepage.png)
 
+### Tour Packages
+
+![Tour Packages](screenshots/packages.png)
+
 
 ## 👨‍💻 Author
 
