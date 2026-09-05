@@ -72,6 +72,10 @@ Database file:
 
 ![Tour Packages](screenshots/packages.png)
 
+### Package Details
+
+![Package Details](screenshots/package-details.png)
+
 
 ## 👨‍💻 Author
 
